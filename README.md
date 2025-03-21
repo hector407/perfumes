@@ -45,14 +45,14 @@
             <img src="descarga.jpg" alt="Perfume Elegante">
             <h3>Perfume Elegante</h3>
             <p>Aroma floral y fresco, ideal para cualquier ocasión.</p>
-            <p><strong>$335 MX</strong></p>
+            <p><strong>$499 MX</strong></p>
             <a href="https://www.victoriassecret.mx/mist-corporal-pure-seduction-11204717-1340/p" class="boton-comprar">Comprar</a>
         </div>
         <div class="producto">
             <img src="descarga (1).jpg" alt="Perfume Intenso">
             <h3>Perfume Intenso</h3>
             <p>Notas amaderadas con toques de vainilla, para una presencia inolvidable.</p>
-            <p><strong>$439 MX</strong></p>
+            <p><strong>$499 MX</strong></p>
             <a href="https://www.victoriassecret.mx/mist-corporal-coconut-passion-11204717-3336/p" class="boton-comprar">Comprar</a>
         </div>
         <div class="producto">
