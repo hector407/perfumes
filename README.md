@@ -9,9 +9,6 @@
             margin: 0;
             padding: 20px;
             text-align: center;
-        <footer>
-    <p>Creada por <strong>Valeria Pedroza</strong>. De 2-A. Escuela Mesoamericana.</p>
-</footer>
         }
         .catalogo {
             display: grid;
