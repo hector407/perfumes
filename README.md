@@ -59,7 +59,7 @@
             <img src="descarga (2).jpg" alt="Perfume Sofisticado">
             <h3>Perfume Sofisticado</h3>
             <p>Aroma cítrico y especiado, perfecto para el día a día.</p>
-            <p><strong>$1,885 MX</strong></p>
+            <p><strong>$1,599 MX</strong></p>
             <a href="https://www.victoriassecret.mx/perfume-bombshell-50-ml-11189378-2457/p" class="boton-comprar">Comprar</a>
         </div>
     </div>
