@@ -66,5 +66,8 @@
             <a href="https://www.victoriassecret.mx/perfume-bombshell-50-ml-11189378-2457/p" class="boton-comprar">Comprar</a>
         </div>
     </div>
+    <footer>
+    <p>Creada por <strong>Valeria Pedroza</strong>. De 2-A. Escuela Mesoamericana.</p>
+</footer>
 </body>
 </html>
